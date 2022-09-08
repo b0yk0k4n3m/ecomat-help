@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ECOMAT'
+copyright = '2022, GLPC.DEV'
+author = 'GLPC.DEV'
 
 release = '0.1'
 version = '0.1.0'
