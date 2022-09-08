@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Hepl document for ECOMAT
 =======================================
-
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Read:
+https://ecomat-help.readthedocs.io/vi/latest/
+Code:
+https://github.com/b0yk0k4n3m/ecomat-help/
+Setting:
+https://readthedocs.org/projects/ecomat-help/
