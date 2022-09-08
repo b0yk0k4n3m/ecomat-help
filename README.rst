@@ -1,4 +1,4 @@
-Hepl document for ECOMAT
+Help document for ECOMAT
 =======================================
 Read:
 https://ecomat-help.readthedocs.io/vi/latest/
